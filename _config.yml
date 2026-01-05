@@ -18,12 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: Shalaka On Tech
 email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: You daily dose of food for thought for techies.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -70,7 +67,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "Shalaka On Tech"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
@@ -166,10 +163,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Shalaka Sinha"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Food for thought for techies"
+  location         : "Bengaluru, Karnataka"
   email            :
   links:
     - label: "Email"
@@ -378,4 +375,3 @@ defaults:
       comments: # true
       share: true
       related: true
->>>>>>> ffa59904e2cc8da8071d4a6771758c75a8db4349
